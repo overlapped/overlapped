@@ -13,3 +13,5 @@
 ![](https://komarev.com/ghpvc/?username=overlapped)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=overlapped&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
